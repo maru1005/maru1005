@@ -2,15 +2,16 @@
 ## 🐱 About me
 
 フルスタックエンジニアを目指して開発中  
-Next.js / FastAPI / LLM を使ったWebアプリを作っています
-猫が好き  
-シンプルで使いやすいプロダクトが好き
+- Next.js / FastAPI / LLM を使ったWebアプリを作っています
+- 猫が好き　No 🐈‍⬛ No life   
+- シンプルで使いやすいプロダクトが好き
 
 ---
 
 ## 🚀 Main Project
 
 ### 🐱 Meow-Lingo（英語学習 × AIチャット）
+https://github.com/maru1005/Meow-Lingo
 
 AIと会話しながら英語学習ができるWebアプリ  
 シンプルなUIで、自然な会話を通して学べる体験を重視
