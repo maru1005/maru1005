@@ -1,9 +1,9 @@
+## 🐱 About Meow
 
-## 🐱 About me
+フルスタックエンジニアを目指して開発中
 
-フルスタックエンジニアを目指して開発中  
 - Next.js / FastAPI / LLM を使ったWebアプリを作っています
-- 猫が好き　No 🐈‍⬛ No life   
+- 猫が好き No 🐈‍⬛ No life
 - シンプルで使いやすいプロダクトが好き
 
 ---
@@ -11,6 +11,7 @@
 ## 🚀 Main Project
 
 ### 🐱 Meow-Lingo（英語学習 × AIチャット）
+
 https://github.com/maru1005/Meow-Lingo
 
 AIと会話しながら英語学習ができるWebアプリ  
@@ -25,43 +26,31 @@ AIと会話しながら英語学習ができるWebアプリ
 ## 🛠 Tech Stack
 
 - Frontend: Next.js / TypeScript / Tailwind CSS
-- Backend: FastAPI / Python
-- Database: PostgreSQL
+- Backend: Go / FastAPI / Python
+- Database: PostgreSQL / Supabase
+- Infra: Docker
 - State: Zustand
 - AI: OpenAI API (GPT)
 
 ---
 
-## 💡 What I value
-
-- LLMを使った「自然な体験設計」
-- フロントとバックのデータの流れを理解した実装
-- シンプルで迷わないUI
-
----
-
-## 🧠 About AI Development
-
-AIを単に組み込むのではなく、  
-「ユーザー体験としてどう成立させるか」を意識しています。
-
-
-
----
-
 ## 🚧 Other Project
 
-### 💰 Crypto Demo Trade App（開発中）
-シンプルにトレード練習ができるWebアプリ  
-CoinGecko APIを使った価格取得・売買シミュレーションを実装中
+### 💰 デモトレ（Crypto Demo Trade App）
+CoinGecko APIを使った価格取得・売買シミュレーションアプリ
+
+### ⌨️ PawType（タイピングゲーム）
+Next.js復習と初のバックエンド実装（認証・DB連携）を目的にした学習用アプリ  
+Next.js（App Router）+ Supabaseで開発
+
+### 🧩 にゃいんスイーパー
+猫テーマのマインスイーパー（Go / Next.js学習用）
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maru1005&show_icons=true)
-
----
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maru1005&show_icons=true)](https://github-readme-stats.vercel.app/api?username=maru1005&show_icons=true)
 
 
 
@@ -79,3 +68,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
