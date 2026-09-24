@@ -5,6 +5,8 @@
 - Next.js / FastAPI / LLM を使ったWebアプリを作っています
 - 猫が好き No 🐈‍⬛ No life
 - シンプルで使いやすいプロダクトが好き
+- portfolio
+- 🔗 https://portfolio-eight-zeta-vd2x0oty6q.vercel.app/
 
 ---
 
